@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WebSocket Demo</string>
+    <string name="start">Start !</string>
 </resources>
